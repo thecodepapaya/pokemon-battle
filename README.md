@@ -56,7 +56,7 @@ This is a simple pokemon game based on the concept of playing cards in C++.
 ## SCREENSHOTS
 
 The pokemons have been assigned to the user.
-![POKEMONS ASSIGNED](screenshot/assigned.jpg)
+![POKEMONS ASSIGNED](assigned.jpg)
 
 ## WHAT ELSE CAN YOU DO?
 
