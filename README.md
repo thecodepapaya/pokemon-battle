@@ -61,7 +61,10 @@ The pokemons have been assigned to the user.
 ## WHAT ELSE CAN YOU DO?
 
 A different version of the same C++ program is available for Turbo C++ DOSBOX [here](pokemon-battle-dos.cpp).
-This version includes primitive sounds as well. Follow the same HOW TO RUN instructions replacing `pokemon-battle` with `pokemon-battle-dos`.
+This version includes primitive sounds as well.
+
+Follow the same HOW TO RUN instructions replacing `pokemon-battle` with `pokemon-battle-dos`.
 
 You can contact the developer via [linkedin profile](https://www.linkedin.com/in/ashutosh-singh-a69170170/).
+
 **This program is open for suggestions and pull requests. Your feedback is highly appreciated.**
