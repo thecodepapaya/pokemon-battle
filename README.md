@@ -46,12 +46,18 @@ This is a simple pokemon game based on the concept of playing cards in C++.
 ## HOW TO RUN
 - Fork this  repository.
 - Clone the this repository by issuing the following command
-> $ git clone https://github.com/<your_username>/pokemon-battle.git
+```
+$ git clone https://github.com/<your_username>/pokemon-battle.git
+```
 - Go to the directory where you've cloned the repository using `cd directory_name`
 - Compile the c++ code by issuing the command below in the terminal.
-> $ g++ pokemon-battle.cpp -o pokemon-battle.out
+```
+$ g++ pokemon-battle.cpp -o pokemon-battle.out
+```
 - Run the code in the terminal using
-> $ ./pokemon-battle.out
+```
+$ ./pokemon-battle.out
+```
 
 ## SCREENSHOTS
 
@@ -65,6 +71,6 @@ This version includes primitive sounds as well.
 
 Follow the same HOW TO RUN instructions replacing `pokemon-battle` with `pokemon-battle-dos`.
 
-You can contact the developer via [linkedin profile](https://www.linkedin.com/in/ashutosh-singh-a69170170/).
+You can contact me via [linkedin profile](https://www.linkedin.com/in/ashutosh-singh-a69170170/).
 
 **This program is open for suggestions and pull requests. Your feedback is highly appreciated.**
